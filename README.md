@@ -1,3 +1,5 @@
+<div align="center">
+
 # GuitarLA
 
 A guitar e-commerce storefront built with React and TypeScript. The application displays a catalog of guitars and provides a fully functional shopping cart with persistent state across browser sessions.
@@ -137,3 +139,5 @@ The project runs with TypeScript in strict mode with `noUnusedLocals`, `noUnused
 ## License
 
 This project is private and not licensed for redistribution.
+
+</div>
